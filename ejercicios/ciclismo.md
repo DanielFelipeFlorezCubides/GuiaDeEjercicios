@@ -12,3 +12,8 @@ El ciclismo es una actividad física que implica pedalear, ya sea en bicicleta a
 1. Comienza con un calentamiento de 5-10 minutos, pedaleando a ritmo suave.
 2. Pedalea durante 30-60 minutos, alternando entre intensidad moderada y alta (puedes incluir intervalos o subidas si estás al aire libre).
 3. Termina con un enfriamiento de 5-10 minutos pedaleando lentamente, seguido de estiramientos para las piernas.
+
+## Consejos
+- Ajusta la altura del sillín para evitar lesiones y mejorar la comodidad.
+- Mantén una buena postura, con los hombros relajados y el core activado.
+- Hidrátate antes, durante y después de la actividad.
