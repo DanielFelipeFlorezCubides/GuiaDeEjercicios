@@ -7,3 +7,8 @@ Los ejercicios de flexibilidad son actividades que ayudan a mejorar el rango de 
 - Aumenta la movilidad y el rango de movimiento.
 - Reduce el riesgo de lesiones.
 - Mejora la postura y la relajación.
+
+## Instrucciones
+1. Comienza con un calentamiento de 5-10 minutos para preparar los músculos.
+2. Realiza ejercicios de flexibilidad (estiramientos estáticos, dinámicos o yoga) durante 20-30 minutos, manteniendo cada posición durante 15-30 segundos.
+3. Termina con una respiración profunda y estiramientos finales suaves para relajar el cuerpo.
