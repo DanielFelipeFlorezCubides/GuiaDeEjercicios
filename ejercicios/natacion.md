@@ -7,3 +7,8 @@ La natación es una actividad física que trabaja todo el cuerpo, mejorando la r
 - Mejora la resistencia cardiovascular y pulmonar.
 - Fortalece todo el cuerpo, especialmente la espalda, brazos y piernas.
 - Ayuda a aliviar el estrés y mejora la movilidad articular.
+
+## Instrucciones
+1. Comienza con un calentamiento de 5-10 minutos, nadando a ritmo suave o realizando ejercicios de movilidad en el agua.
+2. Nada durante 30-45 minutos, alternando estilos (crol, espalda, braza) o enfocándote en uno, según tu objetivo. Incluye intervalos de mayor intensidad si deseas aumentar el esfuerzo.
+3. Finaliza con un enfriamiento de 5-10 minutos, nadando despacio y haciendo estiramientos fuera del agua para los músculos trabajados.
